@@ -1,7 +1,6 @@
-README
 # :iphone: Mordidinha — Suporte
 
-Bem-vindo ao repositório oficial de suporte do **Mordidinha**, um aplicativo iOS desenvolvido para ajudar pais e responsáveis a acompanharem a alimentação de crianças com seletividade alimentar de forma organizada e baseada em método.
+Bem-vindo ao repositório oficial de suporte do **Mordidinha**, um aplicativo iOS desenvolvido para ajudar pais e responsáveis a acompanharem a alimentação de crianças com seletividade alimentar de forma organizada e baseada na metodologia Food Chaining.
 
 ---
 
@@ -17,13 +16,26 @@ O app é uma ferramenta de apoio educacional e organizacional, voltada principal
 
 ## :sparkles: Funcionalidades principais
 
-- Registro rápido de refeições e do status de aceitação (aceitou, recusou, experimentou)
-- Catálogo com mais de 300 alimentos classificados por textura, sabor, cor, grupo alimentar e perfil nutricional
-- Histórico completo de refeições registradas
-- Análises informativas sobre os padrões alimentares da criança, geradas com apoio de inteligência artificial
-- Sugestões de transições alimentares baseadas no método Food Chaining
-- Sistema de classificação nutricional baseado no semáforo da FSA (Food Standards Agency)
-- Classificação de alimentos pelo modelo NOVA (Guia Alimentar para a População Brasileira)
+* Registro rápido de refeições e do status de aceitação (aceitou, recusou, experimentou)
+* Catálogo com mais de 300 alimentos classificados por textura, sabor, cor, grupo alimentar e perfil nutricional
+* Histórico completo de refeições registradas
+* Análises informativas sobre os padrões alimentares da criança, geradas com apoio de inteligência artificial
+* Sugestões de transições alimentares baseadas no método Food Chaining
+* Sistema de classificação nutricional baseado no semáforo da FSA (Food Standards Agency)
+* Classificação de alimentos pelo modelo NOVA (Guia Alimentar para a População Brasileira)
+
+---
+
+## :credit_card: Assinaturas
+
+O Mordidinha oferece funcionalidades opcionais por meio de assinaturas renováveis automaticamente pela App Store.
+
+Planos disponíveis:
+
+* **Plano Mensal:** R$ 29,90 por mês
+* **Plano Anual:** R$ 249,90 por ano
+
+As assinaturas são processadas e gerenciadas exclusivamente pela Apple.
 
 ---
 
@@ -31,7 +43,7 @@ O app é uma ferramenta de apoio educacional e organizacional, voltada principal
 
 Encontrou algum problema, tem sugestões ou precisa de ajuda?
 
-:e-mail: **Email:** suporte.parachoques@gmail.com
+:e-mail: **Email:** [suporte.parachoques@gmail.com](mailto:suporte.parachoques@gmail.com)
 
 Tempo médio de resposta: 3 dias úteis.
 
@@ -41,12 +53,12 @@ Tempo médio de resposta: 3 dias úteis.
 
 Para agilizar o suporte, por favor inclua:
 
-- Modelo do dispositivo (ex.: iPhone 13)
-- Versão do iOS
-- Versão do app (encontrada em "Configurações" dentro do app)
-- Descrição detalhada do problema
-- Passos para reproduzir o erro
-- Capturas de tela, se possível
+* Modelo do dispositivo (ex.: iPhone 13)
+* Versão do iOS
+* Versão do app (encontrada em "Configurações" dentro do app)
+* Descrição detalhada do problema
+* Passos para reproduzir o erro
+* Capturas de tela, se possível
 
 Você pode reportar via email ou abrindo uma [Issue neste repositório](../../issues).
 
@@ -66,11 +78,11 @@ A política de privacidade completa do Mordidinha está disponível em:
 
 Resumo:
 
-- :white_check_mark: **Seus dados ficam no seu dispositivo.** Não temos servidores próprios nem banco de dados — não armazenamos nada sobre você ou seu filho
-- :white_check_mark: Quando você solicita uma análise informativa, os dados necessários são enviados **temporariamente** ao Google Cloud (Vertex AI) para processamento, e não são retidos em nenhuma infraestrutura nossa
-- :white_check_mark: Não há cadastro, login ou cobrança
-- :white_check_mark: Para excluir tudo, basta desinstalar o app
-- :x: Não compartilhamos dados com anunciantes, não vendemos dados, não rastreamos você
+* :white_check_mark: **Seus dados ficam no seu dispositivo.** Não temos servidores próprios nem banco de dados — não armazenamos nada sobre você ou seu filho.
+* :white_check_mark: Quando você solicita uma análise informativa, os dados necessários são enviados **temporariamente** ao Google Cloud (Vertex AI) para processamento e não são retidos em nenhuma infraestrutura nossa.
+* :white_check_mark: Não há cadastro nem login. O aplicativo oferece planos de assinatura opcionais.
+* :white_check_mark: Para excluir tudo, basta desinstalar o app.
+* :x: Não compartilhamos dados com anunciantes, não vendemos dados e não rastreamos você.
 
 ---
 
@@ -78,17 +90,17 @@ Resumo:
 
 Como **todos os dados ficam armazenados localmente** no seu dispositivo, a exclusão é direta:
 
-- **Desinstalar o app** remove automaticamente todos os dados
+* **Desinstalar o app** remove automaticamente todos os dados.
 
 Não armazenamos dados em servidores próprios, então não há nada para excluir do nosso lado.
 
-Em caso de dúvida ou solicitação específica, envie um email para **suporte.parachoques@gmail.com**.
+Em caso de dúvida ou solicitação específica, envie um email para **[suporte.parachoques@gmail.com](mailto:suporte.parachoques@gmail.com)**.
 
 ---
 
 ## :rocket: Status do projeto
 
-Em desenvolvimento ativo. Novas funcionalidades são adicionadas regularmente.
+O Mordidinha recebe atualizações periódicas com melhorias, correções e novas funcionalidades.
 
 ---
 
@@ -96,11 +108,11 @@ Em desenvolvimento ativo. Novas funcionalidades são adicionadas regularmente.
 
 Desenvolvido por:
 
-- [@Cjsrodrigo](https://github.com/Cjsrodrigo)
-- [@Littlebbueno](https://github.com/Littlebbueno)
-- Lara Pasquotti
-- Ingrid Silveira
-- João Perosso
+* [@Cjsrodrigo](https://github.com/Cjsrodrigo)
+* [@Littlebbueno](https://github.com/Littlebbueno)
+* Lara Pasquotti
+* Ingrid Silveira
+* João Perosso
 
 ---
 
@@ -108,4 +120,4 @@ Desenvolvido por:
 
 © 2026 Mordidinha. Todos os direitos reservados.
 
-Este repositório é destinado exclusivamente para suporte ao aplicativo Mordidinha disponível na App Store. (editado) GitHubCjsrodrigo - OverviewCjsrodrigo has 18 repositories available. Follow their code on GitHub.GitHubLittlebbueno - OverviewLittlebbueno has one repository available. Follow their code on GitHub.
+Este repositório é destinado exclusivamente para suporte ao aplicativo Mordidinha disponível na App Store.
